@@ -316,7 +316,7 @@ export default defineComponent({
                   {
                      id: 1,
                      name: 'GitHub - Readme',
-                     description2: 'https://github.com/AlexeyZelenko/electron_english/blob/main/README.md',
+                     description2: 'https://github.com/developerInfiniti/electron_english/blob/main/README.md',
                   },
                ],
                seen: false
@@ -331,7 +331,7 @@ export default defineComponent({
                   {
                      id: 1,
                      name: 'GitHub - Readme',
-                     description2: 'https://github.com/AlexeyZelenko/Search-for-Recipes',
+                     description2: 'https://github.com/developerInfiniti/Search-for-Recipes',
                   },
                ],
                seen: false

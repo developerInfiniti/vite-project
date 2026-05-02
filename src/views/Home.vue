@@ -113,7 +113,7 @@ const sections = ref([
   {
     id: 13,
     title: 'Cheat Sheets',
-    link: 'https://alexeyzelenko.github.io/MarkdownNavigator/',
+    link: 'https://developerinfiniti.github.io/MarkdownNavigator/',
     text: 'Astro 5, Vue3, TypeScript, Vite, TailwindCSS',
     sectionClass: 'sec13',
     seen: true
@@ -129,7 +129,7 @@ const sections = ref([
   {
     id: 15,
     title: 'Шпаргалки по IT',
-    link: 'https://alexeyzelenko.github.io/vitepress/',
+    link: 'https://developerinfiniti.github.io/vitepress/',
     text: 'Vitepress',
     sectionClass: 'sec13',
     seen: true

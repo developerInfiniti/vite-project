@@ -111,7 +111,7 @@
     {{ $t('technologies.value', { value: '' }) }}
   </h2>
   <iframe
-      src="https://alexeyzelenko.github.io/my-skills"
+      src="https://developerinfiniti.github.io/my-skills"
       width="100%"
       height="100%"
   ></iframe>
